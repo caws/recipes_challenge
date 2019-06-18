@@ -3,7 +3,7 @@
 ### The challenge
 Write an API to manage a recipe system. 
 A cook must have the ability to CRUD and list recipes.
-Every single recipe should contain on image to show how it looks like. 
+Every single recipe should contain one image to show how it looks like. 
 You need to limit access to the endpoints depending on the need. 
 Authentication is a must. 
 
